@@ -95,7 +95,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="text-lg gap-2"  onClick={() => {
-                const phoneNumber = "51993279317"; // número sem formatação
+                const phoneNumber = "5551993279317"; // número sem formatação
                 const message = encodeURIComponent(
                   "Olá! Tudo bem? Gostaria de saber mais sobre os serviços da oficina."
                 );
